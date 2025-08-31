@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently working on developing AI/ML applications and have a interest in cyber security.
+I am currently working on developing AI/ML applications specefically time-series forecasting and Brain Tumour Segmentation.
 
 
 # 💻 Tech Stack:
