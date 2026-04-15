@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently working on developing AI/ML applications specefically time-series forecasting and Brain Tumour Segmentation.
+My Name Is Eric
 
 
 # 💻 Tech Stack:
